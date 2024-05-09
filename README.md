@@ -6,7 +6,8 @@ This Analysis has been done using Google Colab and Python.
 
 ---
 
-<H2>About Yulu
+<H2>About Yulu-
+
   
 Yulu is India’s leading micro-mobility service provider, which offers unique vehicles for the daily commute. Starting off as a mission to eliminate traffic congestion in India, Yulu provides the safest commute solution
 through a user-friendly mobile app to enable shared, solo and sustainable commuting.
@@ -17,7 +18,8 @@ want to understand the factors affecting the demand for these shared electric cy
 
 ---
 
-<H2>Problem Statement
+<H2>Problem Statement-
+
 
 The company wants to know:
 Which variables are significant in predicting the demand for shared electric cycles in the Indian market?
